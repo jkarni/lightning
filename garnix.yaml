@@ -1,10 +1,3 @@
 builds:
   include:
-  - checks.x86_64-linux.fmt
-  - checks.x86_64-linux.clippy
-  - checks.x86_64-linux.doc
-  - checks.x86_64-linux.nextest
   - packages.x86_64-linux.lightning-node-standalone
-  - packages.x86_64-linux.lightning-services
-  - devShells.x86_64-linux.default
-  - devShells.aarch64-darwin.default
