@@ -1,4 +1,4 @@
-<!-- omit in toc -->
+foo <!-- omit in toc -->
 # Contributing to Lightning
 
 First off, thanks for taking the time to contribute! ❤️⚡
