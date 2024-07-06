@@ -1,4 +1,4 @@
-foo bar 
+foo bar baz
 <!-- omit in toc -->
 # Contributing to Lightning
 
